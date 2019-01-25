@@ -1,5 +1,5 @@
 # Woocommerce
-How to show product image in receipt mail
+#How to show product image in receipt mail
 
 Copy & paste this code in functions.php file
 
